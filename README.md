@@ -1,5 +1,5 @@
 Overview
-SREGS is a compact 314-byte program designed for HP42S and DM42 calculators to provide a simple, 
+SREGS is a compact 314-byte program designed for HP-42s, Swissmicro DM42 and Free42 calculators to provide a simple, 
 menu-driven interface for browsing and manipulating indirect registers. 
 It allows users to quickly view, modify, and transfer values between the X-register and indirect memory locations using intuitive key mappings.
 
