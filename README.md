@@ -1,5 +1,5 @@
 Overview
-SREGS is a compact 314-byte program designed for HP-42s, Swissmicro DM42 and Free42 calculators to provide a simple, 
+SREGS is a compact 314-byte program designed for Swissmicro DM42 and Free42 (HP42 with changes, see below) calculators to provide a simple, 
 menu-driven interface for browsing and manipulating indirect registers. 
 It allows users to quickly view, modify, and transfer values between the X-register and indirect memory locations using intuitive key mappings.
 
@@ -31,6 +31,6 @@ Exit Behavior
 Key 9 (LBL 09) clears the menu and deletes TEMPSRE, then halts execution.
 
 Requirements
-Compatible with HP42S and DM42 calculators.
+Compatible with Free42 and DM42 calculators. HP42 doesn't include DROP, so all DROP commands should be removed before using it with HP42
 
 No external libraries or dependencies.
